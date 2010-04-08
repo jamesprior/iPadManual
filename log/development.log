@@ -1,0 +1,799 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:04:43) [GET]
+
+ActionController::RoutingError (No route matches "/javascript.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:04:43) [GET]
+
+ActionController::RoutingError (No route matches "/dist/AdLib-ug-ipad.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:04:43) [GET]
+
+ActionController::RoutingError (No route matches "/dist/AdLib-ug-ipad.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:04:43) [GET]
+
+ActionController::RoutingError (No route matches "/style/stylesheet.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:04:43) [GET]
+
+ActionController::RoutingError (No route matches "/cache.manifest" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:04:52) [GET]
+
+ActionController::RoutingError (No route matches "/Contents/en/contentjson-version.txt" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:04:52) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDoneButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:04:52) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultForwardPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:04:52) [GET]
+
+ActionController::RoutingError (No route matches "/Contents/en/content.json" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:04:53) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:04:53) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultBackPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:04:53) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultForward.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:04:53) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultButtonPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:05:39) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultForward.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:05:39) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultForwardPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:05:39) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultButtonPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:05:39) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDoneButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:05:39) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultBackPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:05:39) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:05:40) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultHorizontalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:05:40) [GET]
+
+ActionController::RoutingError (No route matches "/voiceover/en/index.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:05:40) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/bar/UINavigationBarSilverBackground.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:05:40) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultVerticalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:05:40) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefault.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:05:40) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:05:40) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarSilverButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:29) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultButtonPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:29) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDoneButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:29) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultForward.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:29) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultForwardPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:29) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:29) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultBackPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:29) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultVerticalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:29) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/bar/UINavigationBarSilverBackground.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:29) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultHorizontalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:29) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefault.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:29) [GET]
+
+ActionController::RoutingError (No route matches "/voiceover/en/index.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:29) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarSilverButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:54) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDoneButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:54) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultForward.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:54) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultForwardPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:54) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultButtonPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:54) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:54) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultBackPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:54) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefault.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:54) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultVerticalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:54) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultHorizontalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:54) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/bar/UINavigationBarSilverBackground.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:54) [GET]
+
+ActionController::RoutingError (No route matches "/voiceover/en/index.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:09:54) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarSilverButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:10:47) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultForward.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:10:47) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultButtonPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:10:47) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultForwardPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:10:47) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultBackPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:10:47) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:10:47) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultVerticalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:10:47) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultHorizontalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:10:47) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefault.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:10:47) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/bar/UINavigationBarSilverBackground.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:10:47) [GET]
+
+ActionController::RoutingError (No route matches "/voiceover/en/index.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:10:47) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarSilverButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:12:33) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultButtonPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:12:33) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:12:33) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultBackPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:12:33) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultHorizontalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:12:33) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/bar/UINavigationBarSilverBackground.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:12:33) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefault.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:12:33) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultVerticalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:12:33) [GET]
+
+ActionController::RoutingError (No route matches "/voiceover/en/index.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:12:33) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarSilverButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:13:02) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:13:02) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultBackPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:13:02) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultVerticalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:13:02) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/bar/UINavigationBarSilverBackground.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:13:02) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultHorizontalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:13:02) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefault.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:13:02) [GET]
+
+ActionController::RoutingError (No route matches "/voiceover/en/index.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:13:02) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarSilverButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:14:19) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultButton.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:14:19) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultBackPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:14:19) [GET]
+
+ActionController::RoutingError (No route matches "/voiceover/en/index.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:14:19) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultHorizontalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:14:19) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultVerticalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:14:19) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefault.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:14:19) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/bar/UINavigationBarSilverBackground.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:14:44) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarDefaultBackPressed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:14:44) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/bar/UINavigationBarSilverBackground.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:14:44) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultHorizontalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:14:44) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefaultVerticalMiddle.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:14:44) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/scrollindicator/UIScrollerIndicatorDefault.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:14:44) [GET]
+
+ActionController::RoutingError (No route matches "/voiceover/en/index.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:16:27) [GET]
+
+ActionController::RoutingError (No route matches "/voiceover/en/index.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:16:27) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/bar/UINavigationBarSilverBackground.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:17:11) [GET]
+
+ActionController::RoutingError (No route matches "/Contents/en/Art/ChargeIcon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:17:11) [GET]
+
+ActionController::RoutingError (No route matches "/Contents/en/Art/Dock.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:17:11) [GET]
+
+ActionController::RoutingError (No route matches "/Contents/en/Art/ConnectToPwr.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:17:11) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/tableview/UITableNextSelected.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-07 23:17:11) [GET]
+
+ActionController::RoutingError (No route matches "/existing/assets/button/UINavigationBarSilverBack.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.5ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSELECT * FROM enConfig[0m
+  [4;36;1mSQL (31.4ms)[0m   [0;1mSELECT * FROM enContent[0m
+  [4;35;1mSQL (5.2ms)[0m   [0mSELECT * FROM enGraphics[0m

@@ -1,0 +1,37 @@
+--- 
+enConfig_004: 
+  value: Type=Pre-cache only inline graphics,
+  key: Pre-cacheGraphics
+enConfig_005: 
+  value: BackButtonTitle
+  key: BackButtonTitle
+enConfig_006: 
+  value: "0"
+  key: ShowVersionNumber
+enConfig_007: 
+  value: iPad Guide
+  key: BookTitle
+enConfig_008: 
+  value: Art/WebclipIcon.png
+  key: WebclipIcon
+enConfig_010: 
+  value: Type=ShowTableAsList,
+  key: TableStructure
+enConfig_009: 
+  value: Type=grouped,
+  key: MenuStructure
+enConfig_011: 
+  value: BackButtonURL
+  key: BackButtonURL
+enConfig_012: 
+  value: ""
+  key: Search
+enConfig_001: 
+  value: "291923074.646597"
+  key: version
+enConfig_002: 
+  value: iPad User Guide
+  key: AlternativeTitle
+enConfig_003: 
+  value: iPad Guide
+  key: Title
